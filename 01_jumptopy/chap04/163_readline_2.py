@@ -1,0 +1,8 @@
+# f=open('F:\\python_workspace\\openbigdata\\01_jumptopy\\chap04\\새파일.txt','r')
+# f=open('.\\새파일.txt','r')
+# f=open('.\\native\\새파일.txt','r')
+# f=open('.\\native\\dep2\\새파일_d2.txt','r')
+f=open('..\\relative_path\\dep2\\새파일3.txt','r')
+line=f.readline()
+print(line)
+f.close()

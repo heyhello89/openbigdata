@@ -3,5 +3,5 @@ total=0
 for score in A:
     total+=score
 
-average=total/len(A)
-print(average)
+# average=total/len(A)
+print(total/len(A))
