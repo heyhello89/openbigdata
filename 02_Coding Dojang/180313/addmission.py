@@ -3,7 +3,7 @@ age=int(input("나이를 입력하세요. : "))
 addmission=0
 if age<0 :
     print("나이를 잘못 입력하셨습니다. ")
-    continue
+
 elif age<4 :
     addmission=0
 elif age<14 :
