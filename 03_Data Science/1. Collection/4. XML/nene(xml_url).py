@@ -2,14 +2,14 @@
 # py -m pip install pandas
 
 print("Start")
-import urllib.request
+import urllib.request, os
 from pandas import DataFrame
 result=[]
 
 import xml.etree.ElementTree as ET
 response = urllib.request.urlopen('http://nenechicken.com/subpage/where_list.asp?target_step2=%s&proc_type=step1&target_step1=%s'%(urllib.parse.quote('전체'),urllib.parse.quote('전체')))
 
-xml = response.read().decode('UTF-8')
+xml = response.read().decode('utf8')
 root=ET.fromstring(xml)
 
 for element in root.findall('item'):
