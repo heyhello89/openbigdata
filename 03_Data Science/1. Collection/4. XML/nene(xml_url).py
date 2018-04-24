@@ -21,6 +21,6 @@ for element in root.findall('item'):
     result.append([store_name]+[store_sido]+[store_gungu]+[store_address])
 
 nene_table = DataFrame(result,columns=('store','sido','gungu','store_address'))
-nene_table.to_csv('nene.csv',encoding="cp949",mode='w',index=True)
+nene_table.to_csv('nene.csv',encoding="utf8",mode='w',index=True)
 
 print("End")
