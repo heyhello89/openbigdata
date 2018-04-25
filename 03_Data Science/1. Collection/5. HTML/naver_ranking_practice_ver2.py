@@ -7,11 +7,11 @@ soup=BeautifulSoup(html, 'html.parser')
 
 tags=soup.find_all('td')
 
-title=re.compile('title=["].*["][>](.*)</a>')
+title=re.compile('title=.*["][>](.*)</a>')
 t=title.findall(str(tags))
 
 
-range_ac=re.compile('range ac["][>]([\d]{1,2})[<][/][t][d]')
+range_ac=re.compile('range ac["][>]([\d]{1,2})</td')
 r=range_ac.findall(str(tags))
 
 
