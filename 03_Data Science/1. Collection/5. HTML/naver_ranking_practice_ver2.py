@@ -19,7 +19,7 @@ up_down=re.compile('img alt[=]["]([a-z]{2,4})["]')
 u=up_down.findall(str(tags))
 
 
-note_pad = open('Naver_Ranking_ver2','w',encoding='utf8')
+note_pad = open('Naver_Ranking_ver2.csv','w',encoding='utf8')
 note_pad.write("순위|\t영화명\t|\t변동폭\n")
 for num in range(0,len(t)):
     if u[num]=='na':
@@ -31,3 +31,5 @@ for num in range(0,len(t)):
     elif u[num]=='down':
         u[num]='-'
         note_pad.write(" %s\t|\t%s\t|\t%s%s\n"%(num+1,t[num],u[num],r[num]))
+
+print("end")

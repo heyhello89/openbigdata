@@ -65,3 +65,5 @@ record.write("순위|\t영화명\t|\t변동폭\n")
 for count in range(len(title)):
     record.write(" %s\t|\t%s\t|\t%s%s\n"%(rank[count],title[count],up_down[count],range_ac[count]))
 record.close()
+
+print("end")
