@@ -48,7 +48,7 @@ def change_RN1(get_data):
     data=get_data['response']['body']['items']['item']
     for data in data:
         if data['category']=='RN1':
-            data['fcstValue']=1
+            data['fcstValue']=0
     return get_data
 
 def update_scheduler():
@@ -56,7 +56,7 @@ def update_scheduler():
         if ai_Mode == False:
             continue
         else:
-            time.sleep(3600)
+            time.sleep(5)
             info_save('기상정보(ai)', getWeatherResult())
             weather_state=read_data('기상정보(ai)')
             equipment_state=read_data('장비상태')
@@ -124,8 +124,6 @@ def simulation_equipment(equipment_state, equipment, get_data):
             print("제습기가 꺼졌습니다.")
     return equipment_state
 
-
-
 equipment_state=read_data('장비상태')
 info_save('기상정보(test)', getWeatherResult())
 now_weather_state=read_data('기상정보(test)')
@@ -140,7 +138,7 @@ while True:
         print("창문(window) : %s\n가습기(humidifier) : %s\n제습기(dehumidifier) : %s"%(equipment_state['window'],equipment_state['humidifier'],equipment_state['dehumidifier']))
     elif select_num=='2':
         while True:
-            equipment_num=input("제어할 장비를 선택하세요.\n1. 창문\n2. 가습기\3. 제습기\0. 이전 단계\n번호를 선택하세요. : ")
+            equipment_num=input("제어할 장비를 선택하세요.\n1. 창문\n2. 가습기\n3. 제습기\n0. 이전 단계\n번호를 선택하세요. : ")
             if equipment_num=='1':
                 equipment='window'
             elif equipment_num=='2':
@@ -170,7 +168,7 @@ while True:
 
     elif select_num=='5':
         channel=input("1. 주변 맛집\n2. 추천 드라마, 영화, 음악...\n3. 기사(조회수 순)\n번호를 입력하세요. : ")
-        # if channel=='1':
+
 
     elif select_num=='0':
         break
