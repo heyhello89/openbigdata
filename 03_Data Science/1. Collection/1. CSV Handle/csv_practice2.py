@@ -28,13 +28,14 @@ def print_row(col_instance):
         print(row_element)
 
 def sum(col_instance):
-    sum=0
-    for row_element in col_instance:
-        sum+=row_element
+    sum=sum(col_instance)
+    # for row_element in col_instance:
+    #     sum+=row_element
 
     return sum
 
 def avg(col_instance):
+    # avg=avg(col_instance)
     avg=sum(col_instance)/len(col_instance)
     return avg
 
