@@ -111,4 +111,19 @@ print(y_predicted_rounded)
 
 # Fit a logistic regression model
 output_variable = churn['churn01']
+vars_to_keep = churn[['account_length', 'custserv_calls','total_charges']]
+inputs_standardized = (vars_to_keep - vars_to_keep.mean()) / vars_to_keep.std()
+input_variables = sm.add_constant(inputs_standardized, prepend=False)
+logit_model = sm.Logit(output_variable, input_variables).fit()
 
+# logit_model = smf.glm(output_variable, input_variables, family = sm.families.Binomial()).fit()
+print(logit_model.summary())
+print(logit_model.params)
+print(logit_model.bse)
+# logit_marginal_effects = logit_model.get_margeff(method='dydx', at='overall')
+# print(logit_marginal_effects.summary())
+
+# Predict output value for a new observation based on its mean standardize input values
+input_variables = [0., 0., 0., 1]
+predicted_value = logit_model.predict(input_variables)
+print("Predicted value: %.5f"%predicted_value)
