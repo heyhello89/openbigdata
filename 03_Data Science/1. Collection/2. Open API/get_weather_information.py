@@ -56,7 +56,7 @@ def update_scheduler():
         if ai_Mode == False:
             continue
         else:
-            time.sleep(5)
+            time.sleep(30)
             info_save('기상정보(ai)', getWeatherResult())
             weather_state=read_data('기상정보(ai)')
             equipment_state=read_data('장비상태')
