@@ -55,7 +55,7 @@ def update_scheduler():
         if ai_Mode == False:
             continue
         else:
-            time.sleep(5)                                   # 한 시간마다 함수 실행
+            time.sleep(5)                                   # 한 시간마다(3600초) 함수 실행, Test를 위해 5초로 바꿔둠
             info_save('기상정보(ai)', getWeatherResult())      # 기상정보(ai) 파일에 업데이트 된 데이터 저장
             weather_state=read_data('기상정보(ai)')
             equipment_state=read_data('장비상태')

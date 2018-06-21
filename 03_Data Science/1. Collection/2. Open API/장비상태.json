@@ -1,5 +1,5 @@
 {
-    "dehumidifier": true,
-    "humidifier": false,
-    "window": false
+    "dehumidifier": false,
+    "humidifier": true,
+    "window": true
 }
