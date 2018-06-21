@@ -4,17 +4,20 @@ import json
 
 app_id="pNj7l3XuFtHmcgm7KGPl"
 app_pw="7YZD6Z0htW"
+jsonResult = []
+sNode = 'news'
+search_text = '빅데이터'
+display_count = 20
 
 
-def get_request_url(url):
+def get_request_url(url):          # url 호출 함수
     req=urllib.request.Request(url)
     req.add_header("X-Naver-Client-Id", app_id)
     req.add_header("X-Naver-Client-Secret", app_pw)
 
     try:
         response = urllib.request.urlopen(req)
-        if response.getcode() == 200:
-            print("[%s] Url Tequest Success" % datetime.datetime.now())
+        if response.getcode() == 200:         # state code가 200일 경우 API 정상적으로 호출
             return response.read().decode('utf-8')
     except Exception as e:
         print(e)
@@ -28,6 +31,7 @@ def getNaverSearchResult(sNode,search_text,page_start,display):
     parameters = "?query=%s&start=%s&display=%s"%(urllib.parse.quote(search_text), page_start, display)
     url=base+node+parameters
     retData=get_request_url(url)
+    print("[검색시간 : %s] '%s'에 대한 최신 %d건의 검색 결과입니다.\n" %(datetime.datetime.now(), search_text, display))
 
     if(retData == None):
         return None
@@ -47,32 +51,16 @@ def getPostData(post,jsonResult):
     return
 
 def main():
-    jsonResult = []
-
-    sNode = 'news'
-    search_text = '빅데이터'
-    display_count = 20
-
     jsonSearch = getNaverSearchResult(sNode, search_text, 1, display_count)
-
     index = 1
-
-    while((jsonSearch!=None) and (jsonSearch['display']!=0) and index <9):
-        for post in jsonSearch['items']:
-            getPostData(post,jsonResult)
-        nStart = jsonSearch['start']+jsonSearch['display']
-        jsonSearch = getNaverSearchResult(sNode, search_text, nStart, display_count)
-        index=index++1
-
-    count = 1
-
-    for post in jsonResult:
-        print("%s. %s - %s" %("{0:0>2}".format(index), post['title'], post['org_link']))
-        count += 1
+    for post in jsonSearch['items']:
+        getPostData(post,jsonResult)
+        print("%s. %s - %s" %("{0:0>2}".format(index), post['title'], post['originallink']))
+        index=index+1
 
     with open('%s_naver_%s.json'%(search_text,sNode), 'w', encoding='utf8') as outfile:
-            retJson = json.dumps(jsonResult, indent=4, sort_keys=True, ensure_ascii=False)
-            outfile.write(retJson)
+        retJson = json.dumps(jsonResult, indent=4, sort_keys=True, ensure_ascii=False)
+        outfile.write(retJson)
 
     print("%s_naver_%s.json SAVED" %(search_text,sNode))
 

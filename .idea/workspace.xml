@@ -7,30 +7,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="81c87c0c-bba6-4d6e-885a-81040dd90aa3" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/05_졸업작품/Naver API (Search)/ITT_Student.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/05_졸업작품/Naver API (Search)/itt_student_practice.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/05_졸업작품/Naver API (Search)/학생정보 시스템(딕셔너리 중첩)_ver2.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/05_졸업작품/Naver Movie Ranking/1.naver_search_API_2.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/05_졸업작품/Naver Movie Ranking/Naver Ranking" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/05_졸업작품/Naver Movie Ranking/Naver_Ranking_ver2" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/05_졸업작품/Naver Movie Ranking/naver_ranking_html.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/05_졸업작품/Naver Movie Ranking/naver_ranking_html2.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/05_졸업작품/Naver Movie Ranking/naver_ranking_practice.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/05_졸업작품/Naver Movie Ranking/naver_ranking_practice_ver2.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/05_졸업작품/Naver Movie Ranking/naver_ranking_practice_ver3.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/05_졸업작품/Naver Movie Ranking/open_API_practice.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/05_졸업작품/get_weather_information.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/05_졸업작품/기상정보 초기상태.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/05_졸업작품/장비상태.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/03_Data Science/1. Collection/3. JSon/API test.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/03_Data Science/1. Collection/2. Open API/get_weather_information.py" afterPath="$PROJECT_DIR$/03_Data Science/1. Collection/2. Open API/get_weather_information.py" />
-      <change beforePath="$PROJECT_DIR$/03_Data Science/1. Collection/2. Open API/line_plot.png" afterPath="$PROJECT_DIR$/03_Data Science/1. Collection/2. Open API/line_plot.png" />
-      <change beforePath="$PROJECT_DIR$/03_Data Science/1. Collection/2. Open API/simulator.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/03_Data Science/1. Collection/2. Open API/기상정보(ai).json" afterPath="$PROJECT_DIR$/03_Data Science/1. Collection/2. Open API/기상정보(ai).json" />
-      <change beforePath="$PROJECT_DIR$/03_Data Science/1. Collection/2. Open API/기상정보(test).json" afterPath="$PROJECT_DIR$/03_Data Science/1. Collection/2. Open API/기상정보(test).json" />
-      <change beforePath="$PROJECT_DIR$/03_Data Science/1. Collection/2. Open API/장비상태(ai).json" afterPath="$PROJECT_DIR$/03_Data Science/1. Collection/2. Open API/장비상태(ai).json" />
-      <change beforePath="$PROJECT_DIR$/03_Data Science/1. Collection/2. Open API/장비상태.json" afterPath="$PROJECT_DIR$/03_Data Science/1. Collection/2. Open API/장비상태.json" />
-      <change beforePath="$PROJECT_DIR$/exam/line_plot.png" afterPath="$PROJECT_DIR$/exam/line_plot.png" />
+      <change beforePath="$PROJECT_DIR$/03_Data Science/1. Collection/3. JSon/1.naver_search_API_2.py" afterPath="$PROJECT_DIR$/03_Data Science/1. Collection/3. JSon/1.naver_search_API_2.py" />
+      <change beforePath="$PROJECT_DIR$/03_Data Science/1. Collection/3. JSon/jsonfile_read.py" afterPath="$PROJECT_DIR$/03_Data Science/1. Collection/3. JSon/jsonfile_read.py" />
+      <change beforePath="$PROJECT_DIR$/03_Data Science/1. Collection/3. JSon/open_API_practice.py" afterPath="$PROJECT_DIR$/03_Data Science/1. Collection/3. JSon/open_API_practice.py" />
+      <change beforePath="$PROJECT_DIR$/05_졸업작품/Naver API (Search)/ITT_Student.json" afterPath="$PROJECT_DIR$/05_졸업작품/학생_정보_시스템/ITT_Student.json" />
+      <change beforePath="$PROJECT_DIR$/05_졸업작품/Naver API (Search)/itt_student_practice.py" afterPath="$PROJECT_DIR$/05_졸업작품/학생_정보_시스템/itt_student_practice.py" />
+      <change beforePath="$PROJECT_DIR$/05_졸업작품/Naver API (Search)/학생정보 시스템(딕셔너리 중첩)_ver2.py" afterPath="$PROJECT_DIR$/05_졸업작품/학생_정보_시스템/학생정보 시스템(딕셔너리 중첩)_ver2.py" />
+      <change beforePath="$PROJECT_DIR$/05_졸업작품/Naver Movie Ranking/1.naver_search_API_2.py" afterPath="$PROJECT_DIR$/05_졸업작품/네이버_검색_API.py" />
+      <change beforePath="$PROJECT_DIR$/05_졸업작품/Naver Movie Ranking/Naver Ranking" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/05_졸업작품/Naver Movie Ranking/Naver_Ranking_ver2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/05_졸업작품/Naver Movie Ranking/naver_ranking_html.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/05_졸업작품/Naver Movie Ranking/naver_ranking_html2.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/05_졸업작품/Naver Movie Ranking/naver_ranking_practice.py" afterPath="$PROJECT_DIR$/05_졸업작품/네이버_영화_랭킹/naver_ranking_practice.py" />
+      <change beforePath="$PROJECT_DIR$/05_졸업작품/Naver Movie Ranking/naver_ranking_practice_ver2.py" afterPath="$PROJECT_DIR$/05_졸업작품/네이버_영화_랭킹/naver_ranking_practice_ver2(정규식).py" />
+      <change beforePath="$PROJECT_DIR$/05_졸업작품/Naver Movie Ranking/naver_ranking_practice_ver3.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/05_졸업작품/Naver Movie Ranking/open_API_practice.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/05_졸업작품/get_weather_information.py" afterPath="$PROJECT_DIR$/05_졸업작품/스마트홈_네트워크_초기버전.py" />
+      <change beforePath="$PROJECT_DIR$/05_졸업작품/동구_신암동_초단기예보조회_20180618.json" afterPath="$PROJECT_DIR$/exam/스마트홈_네트워크_시뮬레이션/동구_신암동_초단기예보조회_20180618.json" />
+      <change beforePath="$PROJECT_DIR$/05_졸업작품/동구_신암동_통합대기환경정보_20180618.json" afterPath="$PROJECT_DIR$/exam/스마트홈_네트워크_시뮬레이션/동구_신암동_통합대기환경정보_20180618.json" />
+      <change beforePath="$PROJECT_DIR$/05_졸업작품/스마트홈네트워크_시뮬레이션_V2.py" afterPath="$PROJECT_DIR$/exam/스마트홈_네트워크_시뮬레이션/스마트홈네트워크_시뮬레이션_V2.py" />
+      <change beforePath="$PROJECT_DIR$/05_졸업작품/짬뽕_recipe_20180618.json" afterPath="$PROJECT_DIR$/exam/스마트홈_네트워크_시뮬레이션/짬뽕_recipe_20180618.json" />
+      <change beforePath="$PROJECT_DIR$/05_졸업작품/짬뽕_restaurant_20180618.json" afterPath="$PROJECT_DIR$/exam/스마트홈_네트워크_시뮬레이션/짬뽕_restaurant_20180618.json" />
     </list>
     <ignored path="$PROJECT_DIR$/venv/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -42,11 +41,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="1.naver_search_API.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/03_Data Science/1. Collection/3. JSon/1.naver_search_API.py">
+      <file leaf-file-name="네이버_검색_API.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/05_졸업작품/네이버_검색_API.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="21">
+              <caret line="50" column="10" lean-forward="false" selection-start-line="50" selection-start-column="10" selection-end-line="50" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="naver_ranking_practice_ver2(정규식).py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/05_졸업작품/네이버_영화_랭킹/naver_ranking_practice_ver2(정규식).py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="349">
+              <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
               <folding>
                 <element signature="e#0#21#0" expanded="true" />
               </folding>
@@ -54,93 +63,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="1.naver_search_API_2.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/03_Data Science/1. Collection/3. JSon/1.naver_search_API_2.py">
+      <file leaf-file-name="스마트홈네트워크_시뮬레이션_V2.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/exam/스마트홈_네트워크_시뮬레이션/스마트홈네트워크_시뮬레이션_V2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-114">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#21#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="itt_student_practice.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/03_Data Science/1. Collection/3. JSon/itt_student_practice.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-5112">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="open_API_practice.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/03_Data Science/1. Collection/3. JSon/open_API_practice.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-272">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="open_API_practice.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/05_졸업작품/Naver Movie Ranking/open_API_practice.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="학생정보 시스템(딕셔너리 중첩)_ver2.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/05_졸업작품/Naver API (Search)/학생정보 시스템(딕셔너리 중첩)_ver2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2844">
-              <caret line="259" column="26" lean-forward="true" selection-start-line="259" selection-start-column="26" selection-end-line="259" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="itt_student_practice.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/05_졸업작품/Naver API (Search)/itt_student_practice.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="94">
-              <caret line="271" column="31" lean-forward="false" selection-start-line="271" selection-start-column="31" selection-end-line="271" selection-end-column="31" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ITT_Student.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/05_졸업작품/Naver API (Search)/ITT_Student.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ITT_Student2.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/03_Data Science/1. Collection/3. JSon/ITT_Student2.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ITT_Student3.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/03_Data Science/1. Collection/3. JSon/ITT_Student3.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="-9253">
+              <caret line="37" column="0" lean-forward="true" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -170,13 +97,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/03_Data Science/2. Analysis/MySQL_Chap04/4db_mysql_load_from_cav.py" />
-        <option value="$PROJECT_DIR$/03_Data Science/2. Analysis/MySQL_Chap04/4db_mysql_load_from_csv.py" />
-        <option value="$PROJECT_DIR$/03_Data Science/2. Analysis/Excel_Chap03/12excel_introspect_all_workbooks.py" />
-        <option value="$PROJECT_DIR$/03_Data Science/2. Analysis/Excel_Chap03/13excel_concat_data_from_multiple_workbooks.py" />
-        <option value="$PROJECT_DIR$/03_Data Science/2. Analysis/MySQL_Chap04/5db_mysql_write_to_file.py" />
-        <option value="$PROJECT_DIR$/03_Data Science/2. Analysis/MySQL_Chap04/6db_mysql_update_from_csv.py" />
-        <option value="$PROJECT_DIR$/03_Data Science/2. Analysis/MySQL_Chap04/7db_mysql_delete_to_table.py" />
         <option value="$PROJECT_DIR$/03_Data Science/2. Analysis/Excel_Chap03/13pandas_concat_data_from_multiple_workbooks.py" />
         <option value="$PROJECT_DIR$/03_Data Science/2. Analysis/Excel_Chap03/13excel_sum_average_multiple_workbooks.py" />
         <option value="$PROJECT_DIR$/03_Data Science/2. Analysis/Excel_Chap03/14excel_sum_average_multiple_workbooks.py" />
@@ -221,14 +141,21 @@
         <option value="$PROJECT_DIR$/03_Data Science/1. Collection/2. Open API/시각화1.py" />
         <option value="$PROJECT_DIR$/03_Data Science/1. Collection/2. Open API/get_weather_information.py" />
         <option value="$PROJECT_DIR$/05_졸업작품/get_weather_information.py" />
+        <option value="$PROJECT_DIR$/03_Data Science/1. Collection/3. JSon/jsonfile_read.py" />
+        <option value="$PROJECT_DIR$/03_Data Science/1. Collection/3. JSon/open_API_practice.py" />
+        <option value="$PROJECT_DIR$/03_Data Science/1. Collection/3. JSon/1.naver_search_API_2.py" />
+        <option value="$PROJECT_DIR$/03_Data Science/1. Collection/3. JSon/API test.py" />
+        <option value="$PROJECT_DIR$/05_졸업작품/Naver Movie Ranking/빅데이터_naver_news.json" />
+        <option value="$PROJECT_DIR$/05_졸업작품/Naver Movie Ranking/API_news_bigdata.py" />
+        <option value="$PROJECT_DIR$/05_졸업작품/Naver Movie Ranking/open_API_practice.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
-    <option name="y" value="1" />
-    <option name="width" value="835" />
-    <option name="height" value="519" />
+    <option name="y" value="-8" />
+    <option name="width" value="1035" />
+    <option name="height" value="825" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -282,34 +209,6 @@
             <path>
               <item name="openbigdata" type="b2602c69:ProjectViewProjectNode" />
               <item name="openbigdata" type="462c0819:PsiDirectoryNode" />
-              <item name="03_Data Science" type="462c0819:PsiDirectoryNode" />
-              <item name="1. Collection" type="462c0819:PsiDirectoryNode" />
-              <item name="2. Open API" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="openbigdata" type="b2602c69:ProjectViewProjectNode" />
-              <item name="openbigdata" type="462c0819:PsiDirectoryNode" />
-              <item name="03_Data Science" type="462c0819:PsiDirectoryNode" />
-              <item name="1. Collection" type="462c0819:PsiDirectoryNode" />
-              <item name="3. JSon" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="openbigdata" type="b2602c69:ProjectViewProjectNode" />
-              <item name="openbigdata" type="462c0819:PsiDirectoryNode" />
-              <item name="03_Data Science" type="462c0819:PsiDirectoryNode" />
-              <item name="1. Collection" type="462c0819:PsiDirectoryNode" />
-              <item name="4. XML" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="openbigdata" type="b2602c69:ProjectViewProjectNode" />
-              <item name="openbigdata" type="462c0819:PsiDirectoryNode" />
-              <item name="03_Data Science" type="462c0819:PsiDirectoryNode" />
-              <item name="1. Collection" type="462c0819:PsiDirectoryNode" />
-              <item name="5. HTML" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="openbigdata" type="b2602c69:ProjectViewProjectNode" />
-              <item name="openbigdata" type="462c0819:PsiDirectoryNode" />
               <item name="04_AI" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -321,7 +220,18 @@
               <item name="openbigdata" type="b2602c69:ProjectViewProjectNode" />
               <item name="openbigdata" type="462c0819:PsiDirectoryNode" />
               <item name="05_졸업작품" type="462c0819:PsiDirectoryNode" />
-              <item name="Naver API (Search)" type="462c0819:PsiDirectoryNode" />
+              <item name="네이버_영화_랭킹" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="openbigdata" type="b2602c69:ProjectViewProjectNode" />
+              <item name="openbigdata" type="462c0819:PsiDirectoryNode" />
+              <item name="05_졸업작품" type="462c0819:PsiDirectoryNode" />
+              <item name="학생_정보_시스템" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="openbigdata" type="b2602c69:ProjectViewProjectNode" />
+              <item name="openbigdata" type="462c0819:PsiDirectoryNode" />
+              <item name="exam" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="openbigdata" type="b2602c69:ProjectViewProjectNode" />
@@ -354,18 +264,18 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\python\openbigdata\05_졸업작품\Naver API (Search)" />
       <recent name="C:\python\openbigdata\05_졸업작품\Naver Movie Ranking" />
+      <recent name="C:\python\openbigdata\05_졸업작품\Naver API (Search)" />
       <recent name="C:\python\openbigdata\05_졸업작품" />
       <recent name="C:\python\openbigdata\03_Data Science\1. Collection\2. Open API" />
       <recent name="C:\python\openbigdata\exam\test_iris" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\python\openbigdata\05_졸업작품\Naver Movie Ranking" />
+      <recent name="C:\python\openbigdata\exam\스마트홈_네트워크_시뮬레이션" />
       <recent name="C:\python\openbigdata\exam" />
+      <recent name="C:\python\openbigdata\05_졸업작품" />
+      <recent name="C:\python\openbigdata\05_졸업작품\Naver Movie Ranking" />
       <recent name="C:\python\openbigdata\04_AI\1. Machin Learning" />
-      <recent name="C:\python\openbigdata\04_AI\1. Machin Learning\mnist" />
-      <recent name="C:\python\openbigdata" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -380,56 +290,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.학생정보 시스템(딕셔너리 중첩)_ver2">
-    <configuration name="학생정보 시스템(딕셔너리 중첩)_ver2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.naver_ranking_practice">
+    <configuration name="1.naver_search_API_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05_졸업작품/Naver API (Search)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Data Science/1. Collection/3. JSon" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="openbigdata" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05_졸업작품/Naver API (Search)/학생정보 시스템(딕셔너리 중첩)_ver2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="시험문제" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exam" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="openbigdata" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exam/시험문제.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="시각화1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Data Science/1. Collection/2. Open API" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="openbigdata" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Data Science/1. Collection/2. Open API/시각화1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Data Science/1. Collection/3. JSon/1.naver_search_API_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -453,56 +327,92 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="get_weather_information (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="API test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05_졸업작품" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Data Science/1. Collection/3. JSon" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="openbigdata" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05_졸업작품/get_weather_information.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Data Science/1. Collection/3. JSon/API test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="tourist_statistics_service_for_Student" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="API_news_bigdata" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exam" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05_졸업작품/Naver Movie Ranking" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="openbigdata" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exam/tourist_statistics_service_for_Student.py" />
+      <option name="SCRIPT_NAME" value="C:\python\openbigdata\05_졸업작품\네이버_검색_API.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="naver_ranking_practice" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05_졸업작품/Naver Movie Ranking" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="openbigdata" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05_졸업작품/Naver Movie Ranking/naver_ranking_practice.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="naver_ranking_practice_ver2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05_졸업작품/Naver Movie Ranking" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="openbigdata" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05_졸업작품/Naver Movie Ranking/naver_ranking_practice_ver2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.시각화1" />
-      <item index="1" class="java.lang.String" itemvalue="Python.시험문제" />
-      <item index="2" class="java.lang.String" itemvalue="Python.tourist_statistics_service_for_Student" />
-      <item index="3" class="java.lang.String" itemvalue="Python.get_weather_information (1)" />
-      <item index="4" class="java.lang.String" itemvalue="Python.학생정보 시스템(딕셔너리 중첩)_ver2" />
+      <item index="0" class="java.lang.String" itemvalue="Python.1.naver_search_API_2" />
+      <item index="1" class="java.lang.String" itemvalue="Python.API test" />
+      <item index="2" class="java.lang.String" itemvalue="Python.API_news_bigdata" />
+      <item index="3" class="java.lang.String" itemvalue="Python.naver_ranking_practice_ver2" />
+      <item index="4" class="java.lang.String" itemvalue="Python.naver_ranking_practice" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.학생정보 시스템(딕셔너리 중첩)_ver2" />
-        <item index="1" class="java.lang.String" itemvalue="Python.get_weather_information (1)" />
-        <item index="2" class="java.lang.String" itemvalue="Python.tourist_statistics_service_for_Student" />
-        <item index="3" class="java.lang.String" itemvalue="Python.시험문제" />
-        <item index="4" class="java.lang.String" itemvalue="Python.시각화1" />
+        <item index="0" class="java.lang.String" itemvalue="Python.naver_ranking_practice" />
+        <item index="1" class="java.lang.String" itemvalue="Python.naver_ranking_practice_ver2" />
+        <item index="2" class="java.lang.String" itemvalue="Python.API_news_bigdata" />
+        <item index="3" class="java.lang.String" itemvalue="Python.API test" />
+        <item index="4" class="java.lang.String" itemvalue="Python.1.naver_search_API_2" />
       </list>
     </recent_temporary>
   </component>
@@ -723,7 +633,14 @@
       <option name="project" value="LOCAL" />
       <updated>1529309836928</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="..">
+      <created>1529559606924</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1529559606925</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TodoView">
@@ -740,14 +657,14 @@
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1685678" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286517" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29864866" sideWeight="0.4017744" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31351352" sideWeight="0.4112801" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32837838" sideWeight="0.49746513" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286517" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29864866" sideWeight="0.5982256" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31351352" sideWeight="0.5887199" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24968314" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31451613" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3972973" sideWeight="0.4898606" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3972973" sideWeight="0.48732573" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -756,25 +673,6 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293011" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
-    <layout-to-restore>
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286517" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286517" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286517" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20564516" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31451613" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.07794677" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293011" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24968314" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39784947" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-    </layout-to-restore>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -899,7 +797,7 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="97" />
+      <option name="time" value="100" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
@@ -909,149 +807,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/03_Data Science/4. Visualization/292_ggplot_plots.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#20#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05_졸업작품/스마트홈네트워크_시뮬레이션_V2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10298">
-          <caret line="547" column="41" lean-forward="false" selection-start-line="547" selection-start-column="40" selection-end-line="547" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03_Data Science/1. Collection/2. Open API/중국(112)_해외방문객정보_2011_2016.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="17" column="26" lean-forward="true" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03_Data Science/1. Collection/2. Open API/장비상태2.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03_Data Science/1. Collection/2. Open API/장비상태(ai).json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03_Data Science/1. Collection/2. Open API/장비상태.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03_Data Science/1. Collection/2. Open API/기상정보.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03_Data Science/1. Collection/2. Open API/get_weather_information.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="652">
-          <caret line="124" column="32" lean-forward="true" selection-start-line="124" selection-start-column="32" selection-end-line="124" selection-end-column="32" />
-          <folding>
-            <element signature="e#0#21#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03_Data Science/1. Collection/2. Open API/기상정보(ai).json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03_Data Science/1. Collection/2. Open API/기상정보(test).json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2584">
-          <caret line="214" column="22" lean-forward="true" selection-start-line="214" selection-start-column="22" selection-end-line="214" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03_Data Science/1. Collection/5. HTML/naver_ranking_bokyu.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#21#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03_Data Science/1. Collection/5. HTML/naver_ranking_practice.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-741">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#21#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_AI/2. Text Mining/282_hong.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="37">
-          <caret line="2" column="30" lean-forward="true" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_AI/2. Text Mining/277_hong_count.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="9" lean-forward="true" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_AI/2. Text Mining/275_konlpy-basic.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_AI/1. Machin Learning/lang-plot.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_AI/1. Machin Learning/161_mnist-download.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="32" lean-forward="false" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
-          <folding>
-            <element signature="e#0#28#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/04_AI/1. Machin Learning/163_mnist-tocsv.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1118,7 +873,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/05_졸업작품/get_weather_information.py">
+    <entry file="file://$PROJECT_DIR$/05_졸업작품/스마트홈_네트워크_초기버전.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
           <caret line="57" column="99" lean-forward="false" selection-start-line="57" selection-start-column="99" selection-end-line="57" selection-end-column="99" />
@@ -1240,14 +995,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/05_졸업작품/Naver Movie Ranking/Naver Ranking">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/03_Data Science/1. Collection/5. HTML/naver_ranking_practice_ver2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1263,40 +1010,6 @@
           <folding>
             <element signature="e#0#21#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03_Data Science/1. Collection/3. JSon/1.naver_search_API_2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-114">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03_Data Science/1. Collection/3. JSon/itt_student_practice.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-5112">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03_Data Science/1. Collection/3. JSon/open_API_practice.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-272">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05_졸업작품/Naver Movie Ranking/open_API_practice.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1316,7 +1029,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/05_졸업작품/Naver API (Search)/ITT_Student.json">
+    <entry file="file://$PROJECT_DIR$/05_졸업작품/학생_정보_시스템/ITT_Student.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1324,7 +1037,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/05_졸업작품/Naver API (Search)/학생정보 시스템(딕셔너리 중첩)_ver2.py">
+    <entry file="file://$PROJECT_DIR$/05_졸업작품/학생_정보_시스템/학생정보 시스템(딕셔너리 중첩)_ver2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2844">
           <caret line="259" column="26" lean-forward="true" selection-start-line="259" selection-start-column="26" selection-end-line="259" selection-end-column="26" />
@@ -1332,10 +1045,198 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/05_졸업작품/Naver API (Search)/itt_student_practice.py">
+    <entry file="file://$PROJECT_DIR$/05_졸업작품/학생_정보_시스템/itt_student_practice.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="94">
           <caret line="271" column="31" lean-forward="false" selection-start-line="271" selection-start-column="31" selection-end-line="271" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_Data Science/1. Collection/3. JSon/itt_student_practice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3901">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_Data Science/1. Collection/3. JSon/jsonfile_read.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="15" lean-forward="false" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#11#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/urllib/parse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="788" column="0" lean-forward="false" selection-start-line="788" selection-start-column="0" selection-end-line="788" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="308" column="0" lean-forward="false" selection-start-line="308" selection-start-column="0" selection-end-line="308" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_Data Science/1. Collection/3. JSon/open_API_practice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_Data Science/1. Collection/3. JSon/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#11#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_Data Science/1. Collection/3. JSon/1.naver_search_API_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="16" column="30" lean-forward="false" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#21#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_Data Science/1. Collection/3. JSon/API test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="64" column="22" lean-forward="true" selection-start-line="64" selection-start-column="22" selection-end-line="64" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#21#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_Data Science/1. Collection/3. JSon/빅데이터_naver_news.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="1" lean-forward="false" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05_졸업작품/빅데이터_naver_news.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="121" column="1" lean-forward="true" selection-start-line="121" selection-start-column="1" selection-end-line="121" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05_졸업작품/Naver Movie Ranking/Naver_Ranking_ver2">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05_졸업작품/Naver Movie Ranking/1.naver_search_API_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1043">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05_졸업작품/Naver Movie Ranking/naver_ranking_html2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05_졸업작품/Naver Movie Ranking/naver_ranking_html.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05_졸업작품/Naver Movie Ranking/open_API_practice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05_졸업작품/Naver Movie Ranking/naver_ranking_practice_ver3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1176">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05_졸업작품/네이버_영화_랭킹/Naver_Ranking_ver2.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05_졸업작품/네이버_영화_랭킹/Naver Ranking">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05_졸업작품/네이버_영화_랭킹/naver_ranking_practice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#21#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05_졸업작품/네이버_영화_랭킹/naver_ranking_practice_ver2(정규식).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05_졸업작품/네이버_검색_API.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="50" column="10" lean-forward="false" selection-start-line="50" selection-start-column="10" selection-end-line="50" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exam/스마트홈_네트워크_시뮬레이션/스마트홈네트워크_시뮬레이션_V2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9253">
+          <caret line="37" column="0" lean-forward="true" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
           <folding />
         </state>
       </provider>
