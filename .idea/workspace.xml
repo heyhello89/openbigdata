@@ -7,29 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="81c87c0c-bba6-4d6e-885a-81040dd90aa3" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/03_Data Science/1. Collection/3. JSon/API test.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/03_Data Science/1. Collection/3. JSon/1.naver_search_API_2.py" afterPath="$PROJECT_DIR$/03_Data Science/1. Collection/3. JSon/1.naver_search_API_2.py" />
-      <change beforePath="$PROJECT_DIR$/03_Data Science/1. Collection/3. JSon/jsonfile_read.py" afterPath="$PROJECT_DIR$/03_Data Science/1. Collection/3. JSon/jsonfile_read.py" />
-      <change beforePath="$PROJECT_DIR$/03_Data Science/1. Collection/3. JSon/open_API_practice.py" afterPath="$PROJECT_DIR$/03_Data Science/1. Collection/3. JSon/open_API_practice.py" />
-      <change beforePath="$PROJECT_DIR$/05_졸업작품/Naver API (Search)/ITT_Student.json" afterPath="$PROJECT_DIR$/05_졸업작품/학생_정보_시스템/ITT_Student.json" />
-      <change beforePath="$PROJECT_DIR$/05_졸업작품/Naver API (Search)/itt_student_practice.py" afterPath="$PROJECT_DIR$/05_졸업작품/학생_정보_시스템/itt_student_practice.py" />
-      <change beforePath="$PROJECT_DIR$/05_졸업작품/Naver API (Search)/학생정보 시스템(딕셔너리 중첩)_ver2.py" afterPath="$PROJECT_DIR$/05_졸업작품/학생_정보_시스템/학생정보 시스템(딕셔너리 중첩)_ver2.py" />
-      <change beforePath="$PROJECT_DIR$/05_졸업작품/Naver Movie Ranking/1.naver_search_API_2.py" afterPath="$PROJECT_DIR$/05_졸업작품/네이버_검색_API.py" />
-      <change beforePath="$PROJECT_DIR$/05_졸업작품/Naver Movie Ranking/Naver Ranking" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/05_졸업작품/Naver Movie Ranking/Naver_Ranking_ver2" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/05_졸업작품/Naver Movie Ranking/naver_ranking_html.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/05_졸업작품/Naver Movie Ranking/naver_ranking_html2.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/05_졸업작품/Naver Movie Ranking/naver_ranking_practice.py" afterPath="$PROJECT_DIR$/05_졸업작품/네이버_영화_랭킹/naver_ranking_practice.py" />
-      <change beforePath="$PROJECT_DIR$/05_졸업작품/Naver Movie Ranking/naver_ranking_practice_ver2.py" afterPath="$PROJECT_DIR$/05_졸업작품/네이버_영화_랭킹/naver_ranking_practice_ver2(정규식).py" />
-      <change beforePath="$PROJECT_DIR$/05_졸업작품/Naver Movie Ranking/naver_ranking_practice_ver3.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/05_졸업작품/Naver Movie Ranking/open_API_practice.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/05_졸업작품/get_weather_information.py" afterPath="$PROJECT_DIR$/05_졸업작품/스마트홈_네트워크_초기버전.py" />
-      <change beforePath="$PROJECT_DIR$/05_졸업작품/동구_신암동_초단기예보조회_20180618.json" afterPath="$PROJECT_DIR$/exam/스마트홈_네트워크_시뮬레이션/동구_신암동_초단기예보조회_20180618.json" />
-      <change beforePath="$PROJECT_DIR$/05_졸업작품/동구_신암동_통합대기환경정보_20180618.json" afterPath="$PROJECT_DIR$/exam/스마트홈_네트워크_시뮬레이션/동구_신암동_통합대기환경정보_20180618.json" />
-      <change beforePath="$PROJECT_DIR$/05_졸업작품/스마트홈네트워크_시뮬레이션_V2.py" afterPath="$PROJECT_DIR$/exam/스마트홈_네트워크_시뮬레이션/스마트홈네트워크_시뮬레이션_V2.py" />
-      <change beforePath="$PROJECT_DIR$/05_졸업작품/짬뽕_recipe_20180618.json" afterPath="$PROJECT_DIR$/exam/스마트홈_네트워크_시뮬레이션/짬뽕_recipe_20180618.json" />
-      <change beforePath="$PROJECT_DIR$/05_졸업작품/짬뽕_restaurant_20180618.json" afterPath="$PROJECT_DIR$/exam/스마트홈_네트워크_시뮬레이션/짬뽕_restaurant_20180618.json" />
     </list>
     <ignored path="$PROJECT_DIR$/venv/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -640,7 +618,14 @@
       <option name="project" value="LOCAL" />
       <updated>1529559606925</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="..">
+      <created>1529565114897</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1529565114897</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TodoView">
