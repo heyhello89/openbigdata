@@ -3,19 +3,18 @@ from bs4 import BeautifulSoup
 import re
 
 html = urllib.request.urlopen('http://movie.naver.com/movie/sdb/rank/rmovie.nhn')
-soup=BeautifulSoup(html, 'html.parser')
+soup=BeautifulSoup(html, 'html.parser') # BeautifulSoup 생성자에서 html을 파싱하고, 그 결과를 BeautifulSoup 객체로 반환
 
-tags=soup.find_all('td')
+tags=soup.find_all('td')                # td 태그에서 영화명, 순위, 변동폭을 추출
 
-title=re.compile('title=.*["][>](.*)</a>')
-t=title.findall(str(tags))
+title=re.compile('title=.*["][>](.*)</a>')  # 정규식으로 영화명 추출
+t=title.findall(str(tags))                  # 추출 결과를 리스트로 저장
 
-
-range_ac=re.compile('range ac["][>]([\d]{1,2})</td')
+range_ac=re.compile('range ac["][>]([\d]{1,2})</td') # 순위 추출
 r=range_ac.findall(str(tags))
 
 
-up_down=re.compile('img alt[=]["]([a-z]{2,4})["]')
+up_down=re.compile('img alt[=]["]([a-z]{2,4})["]')   # 변동폭 추출
 u=up_down.findall(str(tags))
 
 
