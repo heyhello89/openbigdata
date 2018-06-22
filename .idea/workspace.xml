@@ -7,14 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="81c87c0c-bba6-4d6e-885a-81040dd90aa3" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/05_졸업작품/네이버_영화_랭킹/Naver_movie_score.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/03_Data Science/4. Visualization/histogram.png" afterPath="$PROJECT_DIR$/03_Data Science/4. Visualization/histogram.png" />
-      <change beforePath="$PROJECT_DIR$/03_Data Science/4. Visualization/pandas_plots.png" afterPath="$PROJECT_DIR$/03_Data Science/4. Visualization/pandas_plots.png" />
-      <change beforePath="$PROJECT_DIR$/04_AI/1. Machin Learning/173_lang-plot.py" afterPath="$PROJECT_DIR$/04_AI/1. Machin Learning/173_lang-plot.py" />
-      <change beforePath="$PROJECT_DIR$/05_졸업작품/기상정보 초기상태.py" afterPath="$PROJECT_DIR$/05_졸업작품/기상정보 초기상태(Test 용).py" />
-      <change beforePath="$PROJECT_DIR$/05_졸업작품/네이버_영화_랭킹/naver_ranking_practice_ver2(정규식).py" afterPath="$PROJECT_DIR$/05_졸업작품/네이버_영화_랭킹/naver_ranking_practice_ver2(정규식).py" />
-      <change beforePath="$PROJECT_DIR$/exam/line_plot.png" afterPath="$PROJECT_DIR$/exam/line_plot.png" />
+      <change beforePath="$PROJECT_DIR$/05_졸업작품/스마트홈_네트워크_초기버전.py" afterPath="$PROJECT_DIR$/05_졸업작품/스마트홈_네트워크_Ver1.py" />
     </list>
     <ignored path="$PROJECT_DIR$/venv/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,11 +32,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="스마트홈_네트워크_초기버전.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/05_졸업작품/스마트홈_네트워크_초기버전.py">
+      <file leaf-file-name="스마트홈_네트워크_Ver1.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/05_졸업작품/스마트홈_네트워크_Ver1.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="247">
-              <caret line="13" column="42" lean-forward="true" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
+              <caret line="13" column="42" lean-forward="false" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
               <folding>
                 <element signature="e#0#21#0" expanded="true" />
               </folding>
@@ -74,7 +68,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="173_lang-plot.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="173_lang-plot.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/04_AI/1. Machin Learning/173_lang-plot.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="399">
@@ -276,7 +270,7 @@
             <path>
               <item name="openbigdata" type="b2602c69:ProjectViewProjectNode" />
               <item name="openbigdata" type="462c0819:PsiDirectoryNode" />
-              <item name="exam" type="462c0819:PsiDirectoryNode" />
+              <item name="05_졸업작품" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="openbigdata" type="b2602c69:ProjectViewProjectNode" />
@@ -437,7 +431,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="openbigdata" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05_졸업작품/스마트홈_네트워크_초기버전.py" />
+      <option name="SCRIPT_NAME" value="C:\python\openbigdata\05_졸업작품\스마트홈_네트워크_Ver1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -698,7 +692,14 @@
       <option name="project" value="LOCAL" />
       <updated>1529568844759</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="..">
+      <created>1529636977187</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1529636977187</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TodoView">
@@ -1164,16 +1165,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/05_졸업작품/스마트홈_네트워크_초기버전.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="42" lean-forward="true" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/exam/line_plot.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -1232,6 +1223,16 @@
           <caret line="21" column="9" lean-forward="true" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
           <folding>
             <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05_졸업작품/스마트홈_네트워크_Ver1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="42" lean-forward="false" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
           </folding>
         </state>
       </provider>
