@@ -1,0 +1,5 @@
+C:\python\openbigdata\venv1\Scripts\python.exe D:/exam_workspace/문희식_텍스트마이닝/bayes2.py
+결과 = 광고
+[('광고', -19.00139285840871), ('중요', -20.449365773467083)]
+
+Process finished with exit code 0
