@@ -4,8 +4,8 @@ def fmore_learning_course() :
     course_code=input("강의코드 (예: IB171106, OB0104 ..): ")
     course_name=input("강의명 (예: IOT 빅데이터 실무반): ")
     teacher=input("강사 (예: 이현구): ")
-    open_date=input("개강일 (예: 2017-11-06): ")
-    close_date=input("종료일 (예: 2018-09-05): ")
+    open_date=input("개강일 (예: 2017-12-28): ")
+    close_date=input("종료일 (예: 2018-06-26): ")
     learning_course_list.append(fdic_for_learning_course(close_date,open_date,course_code,course_name,teacher))
     
 def fdic_for_learning_course(close_date,open_date,course_code,course_name,teacher):
