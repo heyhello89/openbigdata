@@ -7,6 +7,7 @@ def fmore_learning_course() :
     open_date=input("개강일 (예: 2017-11-06): ")
     close_date=input("종료일 (예: 2018-09-05): ")
     learning_course_list.append(fdic_for_learning_course(close_date,open_date,course_code,course_name,teacher))
+    
 def fdic_for_learning_course(close_date,open_date,course_code,course_name,teacher):
     dic={}
     dic["close_date"]=close_date
@@ -15,11 +16,13 @@ def fdic_for_learning_course(close_date,open_date,course_code,course_name,teache
     dic["course_name"]=course_name
     dic["teacher"]=teacher
     return dic
+
 def fdic_for_total_course(list_learnig,num_of_learned_course):
     dic={}
     dic["learning_course_info"]=list_learnig
     dic["num_of_course_learned"]=num_of_learned_course
     return dic
+
 def fdic_for_per_std(std_addr,std_id,std_age,std_name,total_course_dic):
     dic={}
     dic["address"] =std_addr
@@ -33,6 +36,8 @@ def fput_std_dic():
     std_dic=fdic_for_per_std(std_addr,std_id,std_age,std_name,total_course_dic)
     course_system_list.append(std_dic)
     print(course_system_list)
+    
+    
 ###############search
 def fread_std(i):
     global course_system_list
@@ -51,10 +56,12 @@ def fread_std(i):
             print("   강사: "+course_system_list[i].get('total_course_info').get('learning_course_info')[j].get('teacher'))
             print("   개강일: "+course_system_list[i].get('total_course_info').get('learning_course_info')[j].get('open_date'))
             print("   종료일: "+course_system_list[i].get('total_course_info').get('learning_course_info')[j].get('close_date'))
+            
 def fread_std_sumary(index) :
     print("복수의 결과가 검색되었습니다.\n  ----- 요약 결과 -----  ")
     for i in index :
         print(">>  학생 ID: "+course_system_list[i].get('student_ID') +", 학생 이름:  "+course_system_list[i].get('student_name'))
+        
 def fsearch(parameter) :
     global index
     search=input(str_search)
@@ -67,6 +74,7 @@ def fsearch(parameter) :
     if len(index) >=2 :
         fread_std_sumary(index)
     index=[]
+    
 def fsearch_on_course(parameter1,parameter2):
     global index
     search=input(str_search)
@@ -78,12 +86,15 @@ def fsearch_on_course(parameter1,parameter2):
         fread_std(i)
     print()
     index=[]
+    
+    
 ####update
 def fupdate_std(parameter):
     global index_from_id
     print("현재값: "+course_system_list[index_from_id].get(parameter))
     change=input("바꾸실 값을 입력하세요: ")
     course_system_list[index_from_id][parameter]=change
+    
 def fupdate_course(parameter):
     global index_from_id
     if parameter =="num_of_course_learned":
@@ -104,6 +115,7 @@ def fupdate_course(parameter):
             change=input("바꾸실 값을 입력하세요: ")
             course_system_list[index_from_id].get('total_course_info').get('learnig_course_info')[change_num][parameter]=change
 
+            
 path='.'
 file='\\ITT_Student.json'
 while True :
